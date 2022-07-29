@@ -1,2 +1,0 @@
-#Introduccion 
-Los programas informáticos son excelentes para trabajar con tareas repetitivas. Como desarrollador, a menudo tendrás que recorrer en ciclo secuencias de valores, como cadenas, números y objetos. Python proporciona dos mecanismos para realizar estas tareas: ciclos ````while```` y ``for``.
